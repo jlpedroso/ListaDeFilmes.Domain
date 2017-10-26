@@ -1,0 +1,5 @@
+c:\dev\JLP\ListaDeFilmes\JLP.ListaDeFilmes\ListaDeFilmes.Domain\bin\Debug\ListaDeFilmes.Domain.dll
+c:\dev\JLP\ListaDeFilmes\JLP.ListaDeFilmes\ListaDeFilmes.Domain\bin\Debug\ListaDeFilmes.Domain.pdb
+c:\dev\JLP\ListaDeFilmes\JLP.ListaDeFilmes\ListaDeFilmes.Domain\obj\Debug\ListaDeFilmes.Domain.dll
+c:\dev\JLP\ListaDeFilmes\JLP.ListaDeFilmes\ListaDeFilmes.Domain\obj\Debug\ListaDeFilmes.Domain.pdb
+c:\dev\JLP\ListaDeFilmes\JLP.ListaDeFilmes\ListaDeFilmes.Domain\obj\Debug\ListaDeFilmes.Domain.csprojResolveAssemblyReference.cache
